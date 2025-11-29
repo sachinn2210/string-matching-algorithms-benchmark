@@ -8,7 +8,6 @@ A comprehensive benchmarking tool for comparing the performance of four classic 
 
 ## 📋 Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration Parameters](#configuration-parameters)
@@ -29,9 +28,6 @@ A comprehensive benchmarking tool for comparing the performance of four classic 
 - 🔄 **Multiple Test Scenarios**: Random and repetitive text patterns
 - 📱 **Responsive UI**: Clean, modern Streamlit interface
 
-## 🎬 Demo
-
-![App Screenshot](https://via.placeholder.com/800x400?text=String+Matching+Benchmark+Demo)
 
 ## 🔧 Installation
 
